@@ -192,6 +192,96 @@ depend:
 	cd /home/fauzan/ksrc/kirigami/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
+# Convenience name for target.
+autotests/CMakeFiles/qmltest.dir/rule:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 autotests/CMakeFiles/qmltest.dir/rule
+.PHONY : autotests/CMakeFiles/qmltest.dir/rule
+
+# Convenience name for target.
+qmltest: autotests/CMakeFiles/qmltest.dir/rule
+.PHONY : qmltest
+
+# fast build rule for target.
+qmltest/fast:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/build
+.PHONY : qmltest/fast
+
+# Convenience name for target.
+autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/rule:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/rule
+.PHONY : autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/rule
+
+# Convenience name for target.
+qmltest_autogen_timestamp_deps: autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/rule
+.PHONY : qmltest_autogen_timestamp_deps
+
+# fast build rule for target.
+qmltest_autogen_timestamp_deps/fast:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/build.make autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/build
+.PHONY : qmltest_autogen_timestamp_deps/fast
+
+# Convenience name for target.
+autotests/CMakeFiles/qmltest_autogen.dir/rule:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 autotests/CMakeFiles/qmltest_autogen.dir/rule
+.PHONY : autotests/CMakeFiles/qmltest_autogen.dir/rule
+
+# Convenience name for target.
+qmltest_autogen: autotests/CMakeFiles/qmltest_autogen.dir/rule
+.PHONY : qmltest_autogen
+
+# fast build rule for target.
+qmltest_autogen/fast:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest_autogen.dir/build.make autotests/CMakeFiles/qmltest_autogen.dir/build
+.PHONY : qmltest_autogen/fast
+
+qmltest.o: qmltest.cpp.o
+.PHONY : qmltest.o
+
+# target to build an object file
+qmltest.cpp.o:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/qmltest.cpp.o
+.PHONY : qmltest.cpp.o
+
+qmltest.i: qmltest.cpp.i
+.PHONY : qmltest.i
+
+# target to preprocess a source file
+qmltest.cpp.i:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/qmltest.cpp.i
+.PHONY : qmltest.cpp.i
+
+qmltest.s: qmltest.cpp.s
+.PHONY : qmltest.s
+
+# target to generate assembly for a file
+qmltest.cpp.s:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/qmltest.cpp.s
+.PHONY : qmltest.cpp.s
+
+qmltest_autogen/mocs_compilation.o: qmltest_autogen/mocs_compilation.cpp.o
+.PHONY : qmltest_autogen/mocs_compilation.o
+
+# target to build an object file
+qmltest_autogen/mocs_compilation.cpp.o:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/qmltest_autogen/mocs_compilation.cpp.o
+.PHONY : qmltest_autogen/mocs_compilation.cpp.o
+
+qmltest_autogen/mocs_compilation.i: qmltest_autogen/mocs_compilation.cpp.i
+.PHONY : qmltest_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+qmltest_autogen/mocs_compilation.cpp.i:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/qmltest_autogen/mocs_compilation.cpp.i
+.PHONY : qmltest_autogen/mocs_compilation.cpp.i
+
+qmltest_autogen/mocs_compilation.s: qmltest_autogen/mocs_compilation.cpp.s
+.PHONY : qmltest_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+qmltest_autogen/mocs_compilation.cpp.s:
+	cd /home/fauzan/ksrc/kirigami/build && $(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/qmltest_autogen/mocs_compilation.cpp.s
+.PHONY : qmltest_autogen/mocs_compilation.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -207,6 +297,15 @@ help:
 	@echo "... package_source"
 	@echo "... rebuild_cache"
 	@echo "... test"
+	@echo "... qmltest_autogen"
+	@echo "... qmltest_autogen_timestamp_deps"
+	@echo "... qmltest"
+	@echo "... qmltest.o"
+	@echo "... qmltest.i"
+	@echo "... qmltest.s"
+	@echo "... qmltest_autogen/mocs_compilation.o"
+	@echo "... qmltest_autogen/mocs_compilation.i"
+	@echo "... qmltest_autogen/mocs_compilation.s"
 .PHONY : help
 
 

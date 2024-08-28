@@ -5406,6 +5406,18 @@
 			"value" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5QuickControls2"
 		},
 		{
+			"name" : "Qt5QuickTest_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt5QuickTest."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5QuickTest"
+		},
+		{
 			"name" : "Qt5Quick_DIR",
 			"properties" : 
 			[
@@ -5428,6 +5440,18 @@
 			],
 			"type" : "PATH",
 			"value" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Svg"
+		},
+		{
+			"name" : "Qt5Test_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt5Test."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Test"
 		},
 		{
 			"name" : "Qt5Widgets_DIR",

@@ -66,12 +66,12 @@ include src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps.dir/compi
 # Include the progress variables for this target.
 include src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps.dir/progress.make
 
+src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
 src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13
 src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/qt5/bin/moc
-src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Qml.so.5.15.13
-src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
-src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5QuickControls2.so.5.15.13
 src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5DBus.so.5.15.13
+src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Qml.so.5.15.13
+src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5QuickControls2.so.5.15.13
 
 KF5Kirigami2_autogen_timestamp_deps: src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps
 KF5Kirigami2_autogen_timestamp_deps: src/libkirigami/CMakeFiles/KF5Kirigami2_autogen_timestamp_deps.dir/build.make

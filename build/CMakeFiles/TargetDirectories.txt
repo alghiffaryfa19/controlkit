@@ -52,6 +52,7 @@
 /home/fauzan/ksrc/kirigami/build/templates/CMakeFiles/install.dir
 /home/fauzan/ksrc/kirigami/build/templates/CMakeFiles/install/local.dir
 /home/fauzan/ksrc/kirigami/build/templates/CMakeFiles/install/strip.dir
+/home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/qmltest.dir
 /home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/package.dir
 /home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/package_source.dir
 /home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/test.dir
@@ -61,6 +62,8 @@
 /home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/install.dir
 /home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/install/local.dir
 /home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/install/strip.dir
+/home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir
+/home/fauzan/ksrc/kirigami/build/autotests/CMakeFiles/qmltest_autogen.dir
 /home/fauzan/ksrc/kirigami/build/jingosTheme/CMakeFiles/KF5Plasma_QCH.dir
 /home/fauzan/ksrc/kirigami/build/jingosTheme/CMakeFiles/KF5Service_QCH.dir
 /home/fauzan/ksrc/kirigami/build/jingosTheme/CMakeFiles/KF5WindowSystem_QCH.dir

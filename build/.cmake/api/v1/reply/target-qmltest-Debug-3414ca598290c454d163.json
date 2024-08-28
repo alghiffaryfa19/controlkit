@@ -1,0 +1,383 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "bin/qmltest"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_property",
+			"_populate_QuickTest_target_properties",
+			"find_package",
+			"_populate_Widgets_target_properties",
+			"remove_definitions"
+		],
+		"files" : 
+		[
+			"autotests/CMakeLists.txt",
+			"/usr/lib/aarch64-linux-gnu/cmake/Qt5QuickTest/Qt5QuickTestConfig.cmake",
+			"CMakeLists.txt",
+			"/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+			"/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 46,
+				"parent" : 3
+			},
+			{
+				"file" : 1,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 213,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"file" : 4,
+				"parent" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 28,
+				"parent" : 9
+			},
+			{
+				"file" : 3,
+				"parent" : 10
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 213,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 57,
+				"parent" : 12
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 129,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fno-operator-names -Wall -Wextra -Wcast-align -Wchar-subscripts -Wformat-security -Wno-long-long -Wpointer-arith -Wundef -Wnon-virtual-dtor -Woverloaded-virtual -Werror=return-type -Werror=init-self -Wvla -Wdate-time -Wsuggest-override -Wlogical-op -pedantic -Wzero-as-null-pointer-constant -fexceptions -g -std=gnu++11 -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 14,
+					"define" : "KF_DEPRECATED_WARNINGS_SINCE=0x060000"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "KIRIGAMI_ENABLE_DBUS"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_DEPRECATED_WARNINGS_SINCE=0x060000"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_DISABLE_DEPRECATED_BEFORE=0x050e00"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NO_CAST_FROM_BYTEARRAY"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NO_FOREACH"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NO_KEYWORDS"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NO_URL_CAST_FROM_STRING"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_QMLTEST_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_STRICT_ITERATORS"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_TESTCASE_BUILDDIR=\"/home/fauzan/ksrc/kirigami/build\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_TESTLIB_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_LARGEFILE64_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/fauzan/ksrc/kirigami/build/autotests"
+				},
+				{
+					"path" : "/home/fauzan/ksrc/kirigami/autotests"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/home/fauzan/ksrc/kirigami/build/autotests/qmltest_autogen/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/include/aarch64-linux-gnu/qt5"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/include/aarch64-linux-gnu/qt5/QtQuickTest"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/include/aarch64-linux-gnu/qt5/QtTest"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/include/aarch64-linux-gnu/qt5/QtCore"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/include/aarch64-linux-gnu/qt5/QtWidgets"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/usr/include/aarch64-linux-gnu/qt5/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "qmltest_autogen_timestamp_deps::@0bffdf5d83a4a8ad06a4"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qmltest_autogen::@0bffdf5d83a4a8ad06a4"
+		}
+	],
+	"id" : "qmltest::@0bffdf5d83a4a8ad06a4",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-fno-operator-names -Wall -Wextra -Wcast-align -Wchar-subscripts -Wformat-security -Wno-long-long -Wpointer-arith -Wundef -Wnon-virtual-dtor -Woverloaded-virtual -Werror=return-type -Werror=init-self -Wvla -Wdate-time -Wsuggest-override -Wlogical-op -pedantic -Wzero-as-null-pointer-constant -fexceptions -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,--enable-new-dtags",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/usr/lib/aarch64-linux-gnu/libQt5QuickTest.so.5.15.13",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "/usr/lib/aarch64-linux-gnu/libQt5Test.so.5.15.13",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "/usr/lib/aarch64-linux-gnu/libQt5Widgets.so.5.15.13",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/usr/lib/aarch64-linux-gnu/libQt5Gui.so.5.15.13",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "/usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "qmltest",
+	"nameOnDisk" : "qmltest",
+	"paths" : 
+	{
+		"build" : "autotests",
+		"source" : "autotests"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/autotests/qmltest_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "autotests/qmltest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/autotests/qmltest_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/autotests/qmltest_autogen/timestamp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "EXECUTABLE"
+}

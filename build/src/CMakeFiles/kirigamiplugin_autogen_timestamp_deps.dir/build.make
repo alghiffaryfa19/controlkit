@@ -66,18 +66,18 @@ include src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps.dir/compiler_depend
 # Include the progress variables for this target.
 include src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps.dir/progress.make
 
-src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13
-src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Concurrent.so.5.15.13
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5Package.so.5.115.0
-src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigCore.so.5.115.0
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigGui.so.5.115.0
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libexiv2.so
+src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
+src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/qt5/bin/moc
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Widgets.so.5.15.13
-src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Qml.so.5.15.13
-src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
-src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5QuickControls2.so.5.15.13
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5DBus.so.5.15.13
+src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Concurrent.so.5.15.13
+src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Qml.so.5.15.13
+src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5QuickControls2.so.5.15.13
+src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigCore.so.5.115.0
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5I18n.so.5.115.0
 src/CMakeFiles/kirigamiplugin_autogen_timestamp_deps: bin/libKF5Kirigami2.so.SOVERSION
 

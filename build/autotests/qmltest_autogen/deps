@@ -1,0 +1,4 @@
+qmltest_autogen/timestamp: \
+	/home/fauzan/ksrc/kirigami/autotests/CMakeLists.txt \
+	/home/fauzan/ksrc/kirigami/autotests/qmltest.cpp \
+	/usr/bin/cmake

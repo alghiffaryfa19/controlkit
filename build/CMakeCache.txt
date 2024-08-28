@@ -611,11 +611,17 @@ Qt5Qml_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml
 //The directory containing a CMake configuration file for Qt5QuickControls2.
 Qt5QuickControls2_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/Qt5QuickControls2
 
+//The directory containing a CMake configuration file for Qt5QuickTest.
+Qt5QuickTest_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/Qt5QuickTest
+
 //The directory containing a CMake configuration file for Qt5Quick.
 Qt5Quick_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/Qt5Quick
 
 //The directory containing a CMake configuration file for Qt5Svg.
 Qt5Svg_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/Qt5Svg
+
+//The directory containing a CMake configuration file for Qt5Test.
+Qt5Test_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/Qt5Test
 
 //The directory containing a CMake configuration file for Qt5Widgets.
 Qt5Widgets_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets

@@ -32,9 +32,9 @@
 						22,
 						38,
 						39,
-						40,
-						41,
-						42
+						43,
+						44,
+						45
 					]
 				},
 				{
@@ -103,7 +103,13 @@
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
-					"source" : "autotests"
+					"source" : "autotests",
+					"targetIndexes" : 
+					[
+						40,
+						41,
+						42
+					]
 				},
 				{
 					"build" : "jingosTheme",
@@ -214,7 +220,10 @@
 						39,
 						40,
 						41,
-						42
+						42,
+						43,
+						44,
+						45
 					]
 				},
 				{
@@ -556,6 +565,27 @@
 					"id" : "pofiles-60bc7068636831fa74e7e24938b253bc::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-pofiles-60bc7068636831fa74e7e24938b253bc-Debug-e58572951937bfd77b27.json",
 					"name" : "pofiles-60bc7068636831fa74e7e24938b253bc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "qmltest::@0bffdf5d83a4a8ad06a4",
+					"jsonFile" : "target-qmltest-Debug-3414ca598290c454d163.json",
+					"name" : "qmltest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "qmltest_autogen::@0bffdf5d83a4a8ad06a4",
+					"jsonFile" : "target-qmltest_autogen-Debug-41b6a1d65d52e412785a.json",
+					"name" : "qmltest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "qmltest_autogen_timestamp_deps::@0bffdf5d83a4a8ad06a4",
+					"jsonFile" : "target-qmltest_autogen_timestamp_deps-Debug-1aa0a05dc495f9d503f6.json",
+					"name" : "qmltest_autogen_timestamp_deps",
 					"projectIndex" : 0
 				},
 				{

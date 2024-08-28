@@ -427,6 +427,45 @@ kirigami_kapptemplate/fast:
 .PHONY : kirigami_kapptemplate/fast
 
 #=============================================================================
+# Target rules for targets named qmltest
+
+# Build rule for target.
+qmltest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qmltest
+.PHONY : qmltest
+
+# fast build rule for target.
+qmltest/fast:
+	$(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest.dir/build.make autotests/CMakeFiles/qmltest.dir/build
+.PHONY : qmltest/fast
+
+#=============================================================================
+# Target rules for targets named qmltest_autogen_timestamp_deps
+
+# Build rule for target.
+qmltest_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qmltest_autogen_timestamp_deps
+.PHONY : qmltest_autogen_timestamp_deps
+
+# fast build rule for target.
+qmltest_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/build.make autotests/CMakeFiles/qmltest_autogen_timestamp_deps.dir/build
+.PHONY : qmltest_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named qmltest_autogen
+
+# Build rule for target.
+qmltest_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qmltest_autogen
+.PHONY : qmltest_autogen
+
+# fast build rule for target.
+qmltest_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f autotests/CMakeFiles/qmltest_autogen.dir/build.make autotests/CMakeFiles/qmltest_autogen.dir/build
+.PHONY : qmltest_autogen/fast
+
+#=============================================================================
 # Target rules for targets named KF5Plasma_QCH
 
 # Build rule for target.
@@ -802,6 +841,8 @@ help:
 	@echo "... org.jingos.light.desktop-jingosTheme-metadata-json"
 	@echo "... pofiles"
 	@echo "... pofiles-60bc7068636831fa74e7e24938b253bc"
+	@echo "... qmltest_autogen"
+	@echo "... qmltest_autogen_timestamp_deps"
 	@echo "... tsfiles"
 	@echo "... tsfiles-60bc7068636831fa74e7e24938b253bc"
 	@echo "... uninstall"
@@ -809,6 +850,7 @@ help:
 	@echo "... jingosDisplay"
 	@echo "... jingosMultimediaModule"
 	@echo "... kirigamiplugin"
+	@echo "... qmltest"
 .PHONY : help
 
 

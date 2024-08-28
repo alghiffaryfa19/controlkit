@@ -66,17 +66,17 @@ include jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_dep
 # Include the progress variables for this target.
 include jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps.dir/progress.make
 
+jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
 jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13
-jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigCore.so.5.115.0
-jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5FileMetaData.so.5.115.0
 jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/qt5/bin/moc
 jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Widgets.so.5.15.13
-jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Qml.so.5.15.13
-jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
 jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5DBus.so.5.15.13
+jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Qml.so.5.15.13
 jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5CoreAddons.so.5.115.0
-jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Multimedia.so.5.15.13
+jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigCore.so.5.115.0
+jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5FileMetaData.so.5.115.0
 jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5KIOWidgets.so.5.115.0
+jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Multimedia.so.5.15.13
 jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5KIOCore.so.5.115.0
 
 jingosMultimediaModule_autogen_timestamp_deps: jingosMultimedia/CMakeFiles/jingosMultimediaModule_autogen_timestamp_deps

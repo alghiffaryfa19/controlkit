@@ -81,7 +81,7 @@ templates/kirigami.tar.bz2: /home/fauzan/ksrc/kirigami/templates/kirigami/src/co
 templates/kirigami.tar.bz2: /home/fauzan/ksrc/kirigami/templates/kirigami/src/main.cpp
 templates/kirigami.tar.bz2: /home/fauzan/ksrc/kirigami/templates/kirigami/src/resources.qrc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/fauzan/ksrc/kirigami/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating kirigami.tar.bz2"
-	cd /home/fauzan/ksrc/kirigami/templates/kirigami && /usr/bin/tar --exclude .kdev_ignore --exclude .svn --sort=name --mode=go=rX,u+rw,a-s --numeric-owner --owner=0 --group=0 --mtime="@1724846100" --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime -c -j -f /home/fauzan/ksrc/kirigami/build/templates/kirigami.tar.bz2 .
+	cd /home/fauzan/ksrc/kirigami/templates/kirigami && /usr/bin/tar --exclude .kdev_ignore --exclude .svn --sort=name --mode=go=rX,u+rw,a-s --numeric-owner --owner=0 --group=0 --mtime="@1724855213" --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime -c -j -f /home/fauzan/ksrc/kirigami/build/templates/kirigami.tar.bz2 .
 
 kirigami_kapptemplate: templates/CMakeFiles/kirigami_kapptemplate
 kirigami_kapptemplate: templates/kirigami.tar.bz2

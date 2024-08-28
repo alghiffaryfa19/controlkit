@@ -66,12 +66,12 @@ include jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps.dir/compil
 # Include the progress variables for this target.
 include jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps.dir/progress.make
 
-jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13
-jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigCore.so.5.115.0
 jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigGui.so.5.115.0
+jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
+jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13
 jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/qt5/bin/moc
 jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Qml.so.5.15.13
-jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libQt5Quick.so.5.15.13
+jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps: /usr/lib/aarch64-linux-gnu/libKF5ConfigCore.so.5.115.0
 
 jingosDisplay_autogen_timestamp_deps: jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps
 jingosDisplay_autogen_timestamp_deps: jingosDisplay/CMakeFiles/jingosDisplay_autogen_timestamp_deps.dir/build.make
