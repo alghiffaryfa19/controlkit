@@ -1,0 +1,106 @@
+{
+	"backtrace" : 13,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"find_package",
+			"find_dependency"
+		],
+		"files" : 
+		[
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5WidgetsAddons/KF5WidgetsAddonsQchTargets.cmake",
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5WidgetsAddons/KF5WidgetsAddonsConfig.cmake",
+			"/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5Bookmarks/KF5BookmarksConfig.cmake",
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5KIO/KF5KIOConfig.cmake",
+			"/usr/share/ECM/find-modules/FindKF5.cmake",
+			"jingosMultimedia/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"file" : 5,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 52,
+				"parent" : 2
+			},
+			{
+				"file" : 4,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 48,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 76,
+				"parent" : 5
+			},
+			{
+				"file" : 3,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 38,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 76,
+				"parent" : 8
+			},
+			{
+				"file" : 1,
+				"parent" : 9
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 10
+			},
+			{
+				"file" : 0,
+				"parent" : 11
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 12
+			}
+		]
+	},
+	"id" : "KF5WidgetsAddons_QCH::@b0d99047240c71913eab",
+	"name" : "KF5WidgetsAddons_QCH",
+	"paths" : 
+	{
+		"build" : "jingosMultimedia",
+		"source" : "jingosMultimedia"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

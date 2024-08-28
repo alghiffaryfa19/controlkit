@@ -1,0 +1,2914 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeSystem.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/Linux-Determine-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCCompilerABI.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/cmake/ECMConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/cmake/ECMConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMUseFindModules.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/FindLibExiv2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5QmlConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Svg/Qt5SvgConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5QuickControls2/Qt5QuickControls2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5QuickControls2/Qt5QuickControls2Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/MacroAddFileDependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/FindKF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/ECMFindModuleHelpersStub.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMFindModuleHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageToolsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageQchTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsToolingTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsToolingTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5CoreAddons/KF5CoreAddonsQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/cmake/ECMConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/cmake/ECMConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMUseFindModules.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEInstallDirs5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEInstallDirsCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQueryQt.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDESetupPrefixScript.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/prefix.sh.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigTargets-none.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigQchTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Xml/Qt5XmlConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets-none.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindGettext.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/GenerateExportHeader.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMSetupVersion.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMGenerateHeaders.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMPoQmTools.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQMLModules.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMFindQmlModule.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEInstallDirs5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEInstallDirsCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQueryQt.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDESetupPrefixScript.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/prefix.sh.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDECMakeSettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMUninstallTarget.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ecm_uninstall.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQtDeclareLoggingCategory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMAddQch.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQueryQt.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEFrameworkCompilerSettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEFrameworkCompilerLegacySettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDECompilerSettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMSourceVersionControl.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMEnableSanitizers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMCoverageOption.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEClangFormat.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/clang-format.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/kde-modules/KDEPackageAppTemplates.cmake"
+		},
+		{
+			"path" : "KF5Kirigami2Config.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMVersionHeader.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMFindQmlModule.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/FindQtGraphicalEffects-QMLModule.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQueryQt.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindGettext.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "src/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQmLoader.cpp.in"
+		},
+		{
+			"path" : "src/scenegraph/shaders/shaders.qrc"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMInstallIcons.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMSetupVersion.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMVersionHeader.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMGeneratePriFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQueryQt.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"path" : "src/libkirigami/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQtDeclareLoggingCategory.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQtDeclareLoggingCategory.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/exportheader.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMSetupVersion.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMVersionHeader.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMGeneratePriFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMQueryQt.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/QtVersionOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"path" : "templates/CMakeLists.txt"
+		},
+		{
+			"path" : "autotests/CMakeLists.txt"
+		},
+		{
+			"path" : "jingosTheme/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/cmake/ECMConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/cmake/ECMConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMUseFindModules.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/FindKF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/ECMFindModuleHelpersStub.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMFindModuleHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaQchTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageQchTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigQchTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindX11.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindFreetype.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindFontconfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaMacros.cmake"
+		},
+		{
+			"path" : "jingosDisplay/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfig.cmake"
+		},
+		{
+			"path" : "jingosMultimedia/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Multimedia/Qt5MultimediaConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Multimedia/Qt5MultimediaConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/FindTaglib.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/FindKF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/find-modules/ECMFindModuleHelpersStub.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/share/ECM/modules/ECMFindModuleHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigQchTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5FileMetaData/KF5FileMetaDataConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5FileMetaData/KF5FileMetaDataConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5FileMetaData/KF5FileMetaDataTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5FileMetaData/KF5FileMetaDataTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5FileMetaData/KF5FileMetaDataQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5KIO/KF5KIOConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5KIO/KF5KIOConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigQchTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Config/KF5ConfigMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Service/KF5ServiceMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Bookmarks/KF5BookmarksConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Bookmarks/KF5BookmarksConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WidgetsAddons/KF5WidgetsAddonsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WidgetsAddons/KF5WidgetsAddonsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WidgetsAddons/KF5WidgetsAddonsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WidgetsAddons/KF5WidgetsAddonsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WidgetsAddons/KF5WidgetsAddonsQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Bookmarks/KF5BookmarksTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Bookmarks/KF5BookmarksTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Bookmarks/KF5BookmarksQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Completion/KF5CompletionConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Completion/KF5CompletionConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Completion/KF5CompletionTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Completion/KF5CompletionTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Completion/KF5CompletionQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ItemViews/KF5ItemViewsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ItemViews/KF5ItemViewsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ItemViews/KF5ItemViewsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ItemViews/KF5ItemViewsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ItemViews/KF5ItemViewsQCHTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5JobWidgets/KF5JobWidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5JobWidgets/KF5JobWidgetsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5JobWidgets/KF5JobWidgetsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5JobWidgets/KF5JobWidgetsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5JobWidgets/KF5JobWidgetsQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Solid/KF5SolidConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Solid/KF5SolidConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Solid/KF5SolidTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Solid/KF5SolidTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Solid/KF5SolidQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5XmlGui/KF5XmlGuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5XmlGui/KF5XmlGuiConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ConfigWidgets/KF5ConfigWidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ConfigWidgets/KF5ConfigWidgetsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Auth/KF5AuthToolsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Codecs/KF5CodecsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Codecs/KF5CodecsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Codecs/KF5CodecsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Codecs/KF5CodecsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5Codecs/KF5CodecsQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ConfigWidgets/KF5ConfigWidgetsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ConfigWidgets/KF5ConfigWidgetsTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5ConfigWidgets/KF5ConfigWidgetsQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5XmlGui/KF5XmlGuiTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5XmlGui/KF5XmlGuiTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5XmlGui/KF5XmlGuiQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindX11.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindFreetype.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindFontconfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake-3.28/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemQchTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5KIO/KF5KIOTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5KIO/KF5KIOTargets-debian.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/aarch64-linux-gnu/cmake/KF5KIO/KF5KIOQchTargets.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/fauzan/ksrc/kirigami/build",
+		"source" : "/home/fauzan/ksrc/kirigami"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

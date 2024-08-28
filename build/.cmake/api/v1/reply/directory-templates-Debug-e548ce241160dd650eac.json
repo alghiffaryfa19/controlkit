@@ -1,0 +1,51 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"kde_package_app_templates"
+		],
+		"files" : 
+		[
+			"/usr/share/ECM/kde-modules/KDEPackageAppTemplates.cmake",
+			"templates/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 146,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "kirigami2",
+			"destination" : "share/kdevappwizard/templates",
+			"paths" : 
+			[
+				"build/templates/kirigami.tar.bz2"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "templates",
+		"source" : "templates"
+	}
+}

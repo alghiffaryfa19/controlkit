@@ -1,0 +1,66 @@
+{
+	"backtrace" : 6,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"kde_clang_format",
+			"include"
+		],
+		"files" : 
+		[
+			"/usr/share/ECM/kde-modules/KDEClangFormat.cmake",
+			"/usr/share/ECM/kde-modules/KDEFrameworkCompilerLegacySettings.cmake",
+			"/usr/share/ECM/kde-modules/KDEFrameworkCompilerSettings.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 41,
+				"parent" : 2
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 79,
+				"parent" : 5
+			}
+		]
+	},
+	"id" : "clang-format::@6890427a1f51a3e7e1df",
+	"name" : "clang-format",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

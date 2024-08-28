@@ -1,0 +1,203 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"kpackage_install_package",
+			"plasma_install_package"
+		],
+		"files" : 
+		[
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageMacros.cmake",
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaMacros.cmake",
+			"jingosTheme/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 51,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 73,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 7
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 51,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 73,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 7
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "kirigami2",
+			"destination" : "share/plasma/jingosTheme/org.jingos.light.desktop",
+			"paths" : 
+			[
+				{
+					"from" : "jingosTheme/jingosLight",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "kirigami2",
+			"destination" : "share/plasma/jingosTheme/org.jingos.light.desktop",
+			"paths" : 
+			[
+				{
+					"from" : "build/jingosTheme/org.jingos.light.desktop-jingosTheme-metadata.json",
+					"to" : "metadata.json"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "kirigami2",
+			"destination" : "share/metainfo",
+			"isOptional" : true,
+			"paths" : 
+			[
+				"build/jingosTheme/org.jingos.light.desktop.appdata.xml"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "kirigami2",
+			"destination" : "share/kservices5",
+			"paths" : 
+			[
+				{
+					"from" : "jingosTheme/jingosLight/metadata.desktop",
+					"to" : "plasma-jingosLight-org.jingos.light.desktop.desktop"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "kirigami2",
+			"destination" : "share/plasma/jingosTheme/org.jingos.dark.desktop",
+			"paths" : 
+			[
+				{
+					"from" : "jingosTheme/jingosDark",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "kirigami2",
+			"destination" : "share/plasma/jingosTheme/org.jingos.dark.desktop",
+			"paths" : 
+			[
+				{
+					"from" : "build/jingosTheme/org.jingos.dark.desktop-jingosTheme-metadata.json",
+					"to" : "metadata.json"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "kirigami2",
+			"destination" : "share/metainfo",
+			"isOptional" : true,
+			"paths" : 
+			[
+				"build/jingosTheme/org.jingos.dark.desktop.appdata.xml"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "kirigami2",
+			"destination" : "share/kservices5",
+			"paths" : 
+			[
+				{
+					"from" : "jingosTheme/jingosDark/metadata.desktop",
+					"to" : "plasma-jingosDark-org.jingos.dark.desktop.desktop"
+				}
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "jingosTheme",
+		"source" : "jingosTheme"
+	}
+}

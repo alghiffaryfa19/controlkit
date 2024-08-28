@@ -1,0 +1,89 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"kpackage_install_package",
+			"plasma_install_package"
+		],
+		"files" : 
+		[
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5Package/KF5PackageMacros.cmake",
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5Plasma/KF5PlasmaMacros.cmake",
+			"jingosTheme/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 48,
+				"parent" : 2
+			}
+		]
+	},
+	"id" : "org.jingos.light.desktop-jingosTheme-metadata-json::@f80147db74976a990e17",
+	"name" : "org.jingos.light.desktop-jingosTheme-metadata-json",
+	"paths" : 
+	{
+		"build" : "jingosTheme",
+		"source" : "jingosTheme"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "build/jingosTheme/CMakeFiles/org.jingos.light.desktop-jingosTheme-metadata-json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/jingosTheme/CMakeFiles/org.jingos.light.desktop-jingosTheme-metadata-json.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/jingosTheme/org.jingos.light.desktop-jingosTheme-metadata.json.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

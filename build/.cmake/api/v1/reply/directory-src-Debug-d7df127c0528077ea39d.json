@@ -1,0 +1,833 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ecm_install_icons",
+			"_ecm_update_iconcache"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt",
+			"/usr/share/ECM/modules/ECMInstallIcons.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 132,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 138,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 273,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 197,
+				"parent" : 39
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 141,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 143,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 157,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 162,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/org/kde/kirigami.2",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/128x128/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/128-actions-jing-dailog-cancel.png",
+					"to" : "jing-dailog-cancel.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/128x128/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/128-actions-jing-dailog-ok.png",
+					"to" : "jing-dailog-ok.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/128x128/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/128-actions-jing-input-pwd-hidden.svg",
+					"to" : "jing-input-pwd-hidden.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/128x128/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/128-actions-jing-input-pwd-visible.svg",
+					"to" : "jing-input-pwd-visible.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/128x128/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/128-actions-jing-search-bar.png",
+					"to" : "jing-search-bar.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/128x128/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/128-actions-jing-search-clear.png",
+					"to" : "jing-search-clear.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/16x16/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/16-actions-jing-dailog-cancel.png",
+					"to" : "jing-dailog-cancel.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/16x16/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/16-actions-jing-dailog-ok.png",
+					"to" : "jing-dailog-ok.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/16x16/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/16-actions-jing-input-pwd-hidden.svg",
+					"to" : "jing-input-pwd-hidden.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/16x16/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/16-actions-jing-input-pwd-visible.svg",
+					"to" : "jing-input-pwd-visible.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/16x16/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/16-actions-jing-search-bar.png",
+					"to" : "jing-search-bar.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/16x16/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/16-actions-jing-search-clear.png",
+					"to" : "jing-search-clear.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/22x22/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/22-actions-jing-input-pwd-hidden.svg",
+					"to" : "jing-input-pwd-hidden.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/22x22/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/22-actions-jing-input-pwd-visible.svg",
+					"to" : "jing-input-pwd-visible.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/22x22/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/22-actions-jing-search-bar.png",
+					"to" : "jing-search-bar.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/22x22/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/22-actions-jing-search-clear.png",
+					"to" : "jing-search-clear.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/32x32/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/32-actions-jing-dailog-cancel.png",
+					"to" : "jing-dailog-cancel.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/32x32/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/32-actions-jing-dailog-ok.png",
+					"to" : "jing-dailog-ok.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/32x32/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/32-actions-jing-input-pwd-hidden.svg",
+					"to" : "jing-input-pwd-hidden.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/32x32/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/32-actions-jing-input-pwd-visible.svg",
+					"to" : "jing-input-pwd-visible.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/32x32/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/32-actions-jing-search-bar.png",
+					"to" : "jing-search-bar.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/32x32/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/32-actions-jing-search-clear.png",
+					"to" : "jing-search-clear.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/48x48/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/48-actions-jing-dailog-cancel.png",
+					"to" : "jing-dailog-cancel.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/48x48/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/48-actions-jing-dailog-ok.png",
+					"to" : "jing-dailog-ok.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/48x48/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/48-actions-jing-input-pwd-hidden.svg",
+					"to" : "jing-input-pwd-hidden.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/48x48/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/48-actions-jing-input-pwd-visible.svg",
+					"to" : "jing-input-pwd-visible.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/48x48/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/48-actions-jing-search-bar.png",
+					"to" : "jing-search-bar.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/48x48/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/48-actions-jing-search-clear.png",
+					"to" : "jing-search-clear.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-dailog-cancel.png",
+					"to" : "jing-dailog-cancel.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-dailog-ok.png",
+					"to" : "jing-dailog-ok.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-input-pwd-hidden.svg",
+					"to" : "jing-input-pwd-hidden.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-input-pwd-visible.svg",
+					"to" : "jing-input-pwd-visible.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-search-bar.png",
+					"to" : "jing-search-bar.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-search-bar.svg",
+					"to" : "jing-search-bar.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-search-clear.png",
+					"to" : "jing-search-clear.png"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "kirigami2",
+			"destination" : "share/icons/hicolor/64x64/actions",
+			"paths" : 
+			[
+				{
+					"from" : "src/controls/image/64-actions-jing-search-clear.svg",
+					"to" : "jing-search-clear.svg"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "kirigami2",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/org/kde/kirigami.2/styles",
+			"paths" : 
+			[
+				"src/styles/org.kde.desktop"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/org/kde/kirigami.2/styles",
+			"paths" : 
+			[
+				"src/styles/Material"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/mkspecs/modules",
+			"paths" : 
+			[
+				"build/src/qt_Kirigami2.pri"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 44,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/org/kde/kirigami.2",
+			"paths" : 
+			[
+				"bin/libkirigamiplugin.so"
+			],
+			"targetId" : "kirigamiplugin::@145eef247bfb46b6828c",
+			"targetIndex" : 33,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 44,
+			"component" : "kirigami2",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "kirigamiplugin::@145eef247bfb46b6828c",
+				"index" : 33
+			},
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/org/kde/kirigami.2",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	}
+}

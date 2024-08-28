@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/libkirigami/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "KF5Kirigami2_autogen_timestamp_deps::@03f0ea4e0744d47a1e4c"
+		}
+	],
+	"id" : "KF5Kirigami2_autogen::@03f0ea4e0744d47a1e4c",
+	"isGeneratorProvided" : true,
+	"name" : "KF5Kirigami2_autogen",
+	"paths" : 
+	{
+		"build" : "src/libkirigami",
+		"source" : "src/libkirigami"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/libkirigami/CMakeFiles/KF5Kirigami2_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/libkirigami/CMakeFiles/KF5Kirigami2_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/src/libkirigami/KF5Kirigami2_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

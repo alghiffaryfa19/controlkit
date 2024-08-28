@@ -1,0 +1,88 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"jingosMultimedia/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 73,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 74,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/multimedia",
+			"paths" : 
+			[
+				"jingosMultimedia/qmldir"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/multimedia",
+			"paths" : 
+			[
+				"bin/libjingosMultimediaModule.so"
+			],
+			"targetId" : "jingosMultimediaModule::@b0d99047240c71913eab",
+			"targetIndex" : 29,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "kirigami2",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "jingosMultimediaModule::@b0d99047240c71913eab",
+				"index" : 29
+			},
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/multimedia",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/multimedia",
+			"paths" : 
+			[
+				"jingosMultimedia/image"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "jingosMultimedia",
+		"source" : "jingosMultimedia"
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ki18n_install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"/usr/lib/aarch64-linux-gnu/cmake/KF5I18n/KF5I18nMacros.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 101,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 153,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 167,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Devel",
+			"destination" : "lib/aarch64-linux-gnu/cmake/KF5Kirigami2",
+			"paths" : 
+			[
+				"build/KF5Kirigami2Config.cmake",
+				"build/KF5Kirigami2ConfigVersion.cmake",
+				"KF5Kirigami2Macros.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/cmake/KF5Kirigami2",
+			"exportName" : "KF5Kirigami2Targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "KF5Kirigami2::@03f0ea4e0744d47a1e4c",
+					"index" : 12
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/78107bdef5744690aa81f110ea6027cc/KF5Kirigami2Targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "kirigami2",
+			"destination" : "share",
+			"paths" : 
+			[
+				"build/locale"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

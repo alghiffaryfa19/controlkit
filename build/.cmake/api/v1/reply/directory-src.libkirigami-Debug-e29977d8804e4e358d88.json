@@ -1,0 +1,97 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/libkirigami/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 60,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 105,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu",
+			"paths" : 
+			[
+				"bin/libKF5Kirigami2.so.SOVERSION"
+			],
+			"targetId" : "KF5Kirigami2::@03f0ea4e0744d47a1e4c",
+			"targetIndex" : 12,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu",
+			"paths" : 
+			[
+				"bin/libKF5Kirigami2.so"
+			],
+			"targetId" : "KF5Kirigami2::@03f0ea4e0744d47a1e4c",
+			"targetIndex" : 12,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Devel",
+			"destination" : "include/KF5/Kirigami2",
+			"paths" : 
+			[
+				"build/src/libkirigami/PlatformTheme",
+				"build/src/libkirigami/KirigamiPluginFactory",
+				"build/src/libkirigami/TabletModeWatcher",
+				"src/libkirigami/platformtheme.h",
+				"src/libkirigami/kirigamipluginfactory.h",
+				"src/libkirigami/tabletmodewatcher.h",
+				"build/src/libkirigami/kirigami2_export.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/mkspecs/modules",
+			"paths" : 
+			[
+				"build/src/libkirigami/qt_Kirigami2.pri"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/libkirigami",
+		"source" : "src/libkirigami"
+	}
+}

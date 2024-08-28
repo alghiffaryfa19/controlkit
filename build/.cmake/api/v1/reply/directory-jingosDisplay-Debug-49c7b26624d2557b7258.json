@@ -1,0 +1,88 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"jingosDisplay/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/display",
+			"paths" : 
+			[
+				"jingosDisplay/qmldir"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/display",
+			"paths" : 
+			[
+				"jingosDisplay/JDisplay.qml"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "kirigami2",
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/display",
+			"paths" : 
+			[
+				"bin/libjingosDisplay.so"
+			],
+			"targetId" : "jingosDisplay::@4bcfbe4d766fd56ef131",
+			"targetIndex" : 26,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "kirigami2",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "jingosDisplay::@4bcfbe4d766fd56ef131",
+				"index" : 26
+			},
+			"destination" : "lib/aarch64-linux-gnu/qt5/qml/jingos/display",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "jingosDisplay",
+		"source" : "jingosDisplay"
+	}
+}

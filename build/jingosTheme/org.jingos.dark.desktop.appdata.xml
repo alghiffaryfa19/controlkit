@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+    <id>org.jingos.dark.desktop</id>
+    <extends>org.kde.plasmashell</extends>
+    <name>Dark</name>
+    <name xml:lang="ar">نسيم</name>
+    <name xml:lang="ast">Dark</name>
+    <name xml:lang="bs">Dark</name>
+    <name xml:lang="ca@valencia">Brisa</name>
+    <name xml:lang="ca">Brisa</name>
+    <name xml:lang="cs">Dark</name>
+    <name xml:lang="da">Dark</name>
+    <name xml:lang="de">Dark</name>
+    <name xml:lang="el">Dark</name>
+    <name xml:lang="en_GB">Dark</name>
+    <name xml:lang="es">Brisa</name>
+    <name xml:lang="et">Dark</name>
+    <name xml:lang="eu">Dark</name>
+    <name xml:lang="fi">Dark</name>
+    <name xml:lang="fr">Dark</name>
+    <name xml:lang="gl">Dark</name>
+    <name xml:lang="hu">Dark</name>
+    <name xml:lang="ia">Brisa</name>
+    <name xml:lang="id">Dark</name>
+    <name xml:lang="is">Dark</name>
+    <name xml:lang="it">Dark</name>
+    <name xml:lang="ja">Dark</name>
+    <name xml:lang="ko">Dark</name>
+    <name xml:lang="lt">Dark</name>
+    <name xml:lang="nb">Dark</name>
+    <name xml:lang="nds">Dark</name>
+    <name xml:lang="nl">Dark</name>
+    <name xml:lang="nn">Dark</name>
+    <name xml:lang="pa">ਬਰੀਜ਼</name>
+    <name xml:lang="pl">Bryza</name>
+    <name xml:lang="pt">Brisa</name>
+    <name xml:lang="pt_BR">Dark</name>
+    <name xml:lang="ru">Dark</name>
+    <name xml:lang="sk">Vánok</name>
+    <name xml:lang="sl">Sapica</name>
+    <name xml:lang="sr@ijekavian">Поветарац</name>
+    <name xml:lang="sr@ijekavianlatin">Povetarac</name>
+    <name xml:lang="sr@latin">Povetarac</name>
+    <name xml:lang="sr">Поветарац</name>
+    <name xml:lang="sv">Dark</name>
+    <name xml:lang="tg">Насим</name>
+    <name xml:lang="tr">Dark</name>
+    <name xml:lang="uk">Dark</name>
+    <name xml:lang="x-test">xxDarkxx</name>
+    <name xml:lang="zh_CN">深色</name>
+    <name xml:lang="zh_TW">深色</name>
+    <summary>Dark by the KDE VDG</summary>
+    <summary xml:lang="ca@valencia">Brisa per a VDG de KDE</summary>
+    <summary xml:lang="ca">Brisa, creat pel VDG del KDE</summary>
+    <summary xml:lang="cs">Dark od KDE VDG</summary>
+    <summary xml:lang="da">Dark af KDE VDG</summary>
+    <summary xml:lang="de">Dark der KDE VG</summary>
+    <summary xml:lang="en_GB">Dark by the KDE VDG</summary>
+    <summary xml:lang="es">Brisa por KDE VDG</summary>
+    <summary xml:lang="et">Dark KDE VDG-lt</summary>
+    <summary xml:lang="eu">Dark KDEren VDGk egina</summary>
+    <summary xml:lang="fi">Dark KDE VDG:ltä</summary>
+    <summary xml:lang="fr">Dark, par KDE VDG</summary>
+    <summary xml:lang="gl">Dark de KDE VDG</summary>
+    <summary xml:lang="hu">Dark a KDE VDG-től</summary>
+    <summary xml:lang="ia">Dark (Brisa) per le KDE VDG</summary>
+    <summary xml:lang="id">Dark oleh KDE VDG</summary>
+    <summary xml:lang="it">Brezza a cura del VDG di KDE</summary>
+    <summary xml:lang="ko">KDE 시각 디자인 그룹에서 제작한 Dark</summary>
+    <summary xml:lang="lt">Dark pagal KDE VDG</summary>
+    <summary xml:lang="nl">Dark door de KDE VDG</summary>
+    <summary xml:lang="nn">Dark frå KDE VDG</summary>
+    <summary xml:lang="pl">Bryza autorstwa KDE VDG</summary>
+    <summary xml:lang="pt">Brisa da VDG do KDE</summary>
+    <summary xml:lang="pt_BR">Dark pelo KDE VDG</summary>
+    <summary xml:lang="ru">Оформление рабочей среды Dark от KDE VDG</summary>
+    <summary xml:lang="sk">Vánok od KDE VDG</summary>
+    <summary xml:lang="sv">Dark av KDE:s visuella designgrupp</summary>
+    <summary xml:lang="uk">Dark, автори — KDE VDG</summary>
+    <summary xml:lang="x-test">xxDark by the KDE VDGxx</summary>
+    <summary xml:lang="zh_CN">微风，由 KDE VDG 创作</summary>
+    <summary xml:lang="zh_TW">由 KDE VDG 設計的 Dark</summary>
+    <url type="homepage">https://www.kde.org</url>
+    <developer_name>JING OS DEVELOPER TEAM &lt;huanlele@jingos.com&gt;</developer_name>
+    <project_license>GPL-2.0+</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+</component>
